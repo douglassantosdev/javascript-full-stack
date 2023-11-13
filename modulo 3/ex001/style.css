@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+* {
+    color: white;
+}
+
+body {
+    background-color: rgb(10, 48, 48);
+}
+
+h4 {
+    color: yellow;
+}
+
+h2 {
+    background-color: yellow;
+    color: black;
+    border: 2px solid black;
+}
+
+.vermelho {
+    color: rgb(178, 37, 37);
+}
