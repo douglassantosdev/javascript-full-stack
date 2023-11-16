@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    padding: 0px 20px;
+}
+    
+
+div {
+    background-color: white;
+    width: 800px;
+    height: 100vh;
+    margin: auto;
+}
+
+
+.azul {
+    color: darkcyan;
+    text-align: left;
+    padding: 20px;
+}
+
+.lorem {
+    text-align: justify;
+    padding: 20px;
+}
+
