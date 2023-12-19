@@ -12,4 +12,4 @@ let personOlder = alert(`Nome da pessoa mais velha: ${namePersonOlder} \nIdade d
 
 let personYonger = alert(`Nome da pessoa mais nova: ${namePersonYonger} \nIdade da pessoa mais nova: ${agePersonYonger}`)
 
-let ageDif = alert(`A diferença de idade entre elas é de ${agePersonOlder - agePersonYonger} anos`)
+let ageDif = alert(`A diferença de idade: ${agePersonOlder - agePersonYonger}`)
